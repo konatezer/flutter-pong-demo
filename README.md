@@ -1,6 +1,9 @@
-# simple_pong
+# flutter pong demo
 
-A new Flutter project.
+flutter-pong-demo
+Used Stack and Potioned to the interface.
+Used Animation and AnimationContrller to build the Tween animations.
+Used the Random() from the Dart Math library.
 
 ## Getting Started
 
